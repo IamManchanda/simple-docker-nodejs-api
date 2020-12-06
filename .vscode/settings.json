@@ -1,9 +1,9 @@
 {
     "editor.fontSize": 18,
     "window.zoomLevel": 0,
-    "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": false,
-    "gitlens.currentLine.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "gitlens.currentLine.enabled": true,
     "editor.formatOnSave": true,
     "terminal.integrated.fontSize": 18,
     "terminal.integrated.fontWeight": "500",
